@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 import javax.annotation.Resource;
-import org.activiti.engine.history.HistoricTaskInstance;;
+import org.activiti.engine.history.HistoricTaskInstance;
 import com.mossle.api.humantask.HumanTaskConnector;
 import com.mossle.api.humantask.HumanTaskConstants;
 import com.mossle.api.humantask.HumanTaskDTO;
